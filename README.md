@@ -6,3 +6,6 @@ Files 'PRS' and 'MinePath' refer to each tools methodology and implement the cor
 Changes:
 1. MinePath discretization method corrections
 2. One sub-path and one sample at a time for each method's functions
+
+Completed:
+MinePath
