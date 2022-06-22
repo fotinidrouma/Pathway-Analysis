@@ -1,6 +1,7 @@
 # Thesis
 File 'Pathway Analysis': contains all methods in their primary implementation.
 File 'Pathway Analysis- Main Script': the 'Pathway Analysis' file with corrections.
+Files in 'Results' directory must be unzipped.
 
 Changes in 'Pathway Analysis- Main Script':
 1. MinePath discretization method corrections
