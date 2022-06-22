@@ -1,6 +1,6 @@
 # Thesis
-File 'Pathway Analysis' contains all methods.
-File 'Pathway Analysis- Main Script' contains the data and each method is called from another script.
+File 'Pathway Analysis': contains all methods in their primary implementation.
+File 'Pathway Analysis- Main Script': the 'Pathway Analysis' file with corrections.
 Files 'PRS' and 'MinePath' refer to each tools methodology and implement the corresponding functions, which are called in 'Pathway Analysis- Main Script' (all the other tools will also be implemented in such form). 
 
 Changes:
