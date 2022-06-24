@@ -7,7 +7,6 @@ Changes in 'Pathway Analysis- Main Script':
 1. MinePath discretization method corrections
 2. One sub-path and one sample at a time for each method's functions
 3. Get final results in DataFrame form for a specific sample and each sub-path
-4. TAPPA and HiPathia completion
 
 Completed:
 1. MinePath
@@ -16,3 +15,6 @@ Completed:
 4. TEAK
 5. DEAP
 6. PRS
+
+Concerns:
+1. PRS, SPIA, SubSPIA and GraphiteWeb: P-values and fold-changes return one value for each gene. How to use the expression values of each sample and get different sub-paths' scores?
