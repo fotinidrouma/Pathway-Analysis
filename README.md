@@ -16,6 +16,7 @@ Completed:
 4. TEAK
 5. DEAP
 6. PRS
+7. HiPathia
 
 Concerns:
 1. PRS, SPIA, SubSPIA and GraphiteWeb: P-values and fold-changes return one value for each gene. How to use the expression values of each sample and get different sub-paths' scores?
