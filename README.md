@@ -6,14 +6,13 @@ Files in 'Results' directory must be unzipped.
 Changes in 'Pathway Analysis- Main Script':
 1. MinePath discretization method corrections
 2. One sub-path and one sample at a time for each method's functions
-3. Get final results in DataFrame form for a specific sample and each sub-path
-4. For genes' significance the z-score is employed
-5. Calculated the scores for each sample and sub-path for MinePath
+3. For genes' significance the z-score is employed
+4. Calculated the scores for each sample and sub-path for MinePath and TAPPA
 
 Completed:
 1. MinePath
 2. TAPPA
-3. HiPathia
+3. GraphiteWeb
 4. TEAK
 5. DEAP
 6. PRS
