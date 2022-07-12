@@ -1,6 +1,7 @@
 # Thesis
 File 'Pathway Analysis': contains all methods in their primary implementation.
 File 'Pathway Analysis- Main Script': the 'Pathway Analysis' file with corrections.
+Results: GraphiteWeb is still computing, must be unzipped
 
 Changes in 'Pathway Analysis- Main Script':
 1. MinePath discretization method corrections
