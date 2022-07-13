@@ -9,7 +9,7 @@ Changes in 'Pathway Analysis- Main Script':
 3. For genes' significance the z-score is employed
 4. Calculated the scores for each sample and sub-path for MinePath and TAPPA
 
-Completed:
+Implementation Completed:
 1. MinePath
 2. TAPPA
 3. GraphiteWeb
@@ -18,6 +18,10 @@ Completed:
 6. PRS
 7. HiPathia
 8. SPIA
+
+Results Calculated:
+1. MinePath
+2. TAPPA
 
 Concerns:
 1. PRS, SPIA, SubSPIA and GraphiteWeb: P-values and fold-changes return one value for each gene. How to use the expression values of each sample and get different sub-paths' scores? (Z-score)
