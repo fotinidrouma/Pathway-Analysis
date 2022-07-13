@@ -25,7 +25,7 @@ Results Calculated:
 
 Results Calculating (files are compressed because of the size, must be unzipped before running code):
 1. GraphiteWeb 
-2. TEAK
+2. TEAK: the file is too big for git
 
 Concerns:
 1. PRS, SPIA, SubSPIA and GraphiteWeb: P-values and fold-changes return one value for each gene. How to use the expression values of each sample and get different sub-paths' scores? (Z-score)
