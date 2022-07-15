@@ -5,9 +5,8 @@ Results: GraphiteWeb is still computing, must be unzipped
 
 Changes in 'Pathway Analysis- Main Script':
 1. MinePath discretization method corrections
-2. One sub-path and one sample at a time for each method's functions
-3. For genes' significance the z-score is employed
-4. Calculated the scores for each sample and sub-path for MinePath and TAPPA
+2. For genes' significance the z-score is employed (threshold=1.96 corresponding to p-value's threshold 0.05)
+3. Calculated the scores for each sample and sub-path for MinePath and TAPPA
 
 Implementation Completed:
 1. MinePath
@@ -27,5 +26,3 @@ Results Calculating (files are compressed because of the size, must be unzipped 
 1. GraphiteWeb 
 2. TEAK: the file is too big for git
 
-Concerns:
-1. PRS, SPIA, SubSPIA and GraphiteWeb: P-values and fold-changes return one value for each gene. How to use the expression values of each sample and get different sub-paths' scores? (Z-score)
