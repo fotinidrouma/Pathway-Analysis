@@ -18,9 +18,11 @@ Implementation Completed:
 7. HiPathia
 8. SPIA
 
-Results Calculated:
+Results Calculated (some files are too big for git):
 1. MinePath
-2. TAPPA: the file is too big for git
+2. TAPPA
+3. TEAK
+4. HiPathia
 
 Results Calculating (files are compressed because of the size, must be unzipped before running code):
 1. GraphiteWeb 
