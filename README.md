@@ -23,8 +23,9 @@ Results Calculated (some files are too big for git):
 2. TAPPA
 3. TEAK
 4. HiPathia
+5. PRS (without the 2nd normalization step)
 
 Results Calculating (files are compressed because of the size, must be unzipped before running code):
 1. GraphiteWeb 
-2. PRS
+2. SPIA
 
