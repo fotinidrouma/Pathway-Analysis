@@ -4,18 +4,16 @@ File 'Pathway Analysis- Main Script': the 'Pathway Analysis' file with correctio
 Results: GraphiteWeb is still computing, must be unzipped
 
 Changes in 'Pathway Analysis- Main Script':
-1. MinePath discretization method corrections
-2. For genes' significance the z-score is employed (threshold=1.96 corresponding to p-value's threshold 0.05)
-3. Calculated the scores for each sample and sub-path for MinePath and TAPPA
+1. For genes' significance the z-score is employed (threshold=1.96 corresponding to p-value's threshold 0.05)
 
 Implementation Completed:
 1. MinePath
 2. TAPPA
-3. GraphiteWeb
-4. TEAK
-5. DEAP
-6. PRS
-7. HiPathia
+3. TEAK
+4. HiPathia 
+5. PRS
+6. GraphiteWeb
+7. DEAP
 8. SPIA
 
 Results Calculated (some files are too big for git):
@@ -27,5 +25,6 @@ Results Calculated (some files are too big for git):
 
 Results Calculating (files are compressed because of the size, must be unzipped before running code):
 1. GraphiteWeb 
-2. SPIA
+2. DEAP
+3. SPIA
 
