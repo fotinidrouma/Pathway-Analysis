@@ -9,16 +9,6 @@ Changes in 'Pathway Analysis- Main Script':
 Idea:
 1. For MinePath: when matching sub-paths with gene expression profiles, instead of the mean value of the genes of a node, compute the node value using the OR boolean operator.
 
-Implementation Completed:
-1. MinePath
-2. TAPPA
-3. TEAK
-4. HiPathia 
-5. PRS
-6. GraphiteWeb
-7. DEAP
-8. SPIA
-
 Results Calculated (some files are too big for git):
 1. MinePath
 2. TAPPA
