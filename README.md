@@ -16,8 +16,8 @@ Results Calculated (some files are too big for git):
 3. TEAK
 4. HiPathia
 5. PRS (without the 2nd normalization step)
-6. GraphiteWeb (50%): Adjust using Benjamini and Hochberg method after completion
-7. DEAP 
+6. GraphiteWeb: If i adjust using Benjamini and Hochberg method the accuracy reduces
+7. DEAP: can't find significant sub-paths
 
 Results Calculating (files are compressed because of the size, must be unzipped before running code):
 1. SPIA (0%)
