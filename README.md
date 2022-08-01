@@ -17,8 +17,8 @@ Results Calculated (some files are too big for git):
 4. HiPathia
 5. PRS (without the 2nd normalization step)
 6. GraphiteWeb (50%): Adjust using Benjamini and Hochberg method after completion
+7. DEAP 
 
 Results Calculating (files are compressed because of the size, must be unzipped before running code):
-1. DEAP (0%)
-2. SPIA (0%)
+1. SPIA (0%)
 
