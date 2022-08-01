@@ -6,9 +6,9 @@ Results: GraphiteWeb is still computing, must be unzipped
 Changes in 'Pathway Analysis- Main Script':
 1. For genes' significance the z-score is employed (threshold=1.96 corresponding to p-value's threshold 0.05)
 2. SPIA: P_NDE code corrections
-
-Idea:
-1. For MinePath: when matching sub-paths with gene expression profiles, instead of the mean value of the genes of a node, compute the node value using the OR boolean operator.
+3. Adjustment step added to GraphiteWeb
+4. Replace rotation step with FDR correction in DEAP method
+5.For MinePath: when matching sub-paths with gene expression profiles, instead of the mean value of the genes of a node, compute the node value using the OR boolean operator.
 
 Results Calculated (some files are too big for git):
 1. MinePath
