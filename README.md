@@ -15,7 +15,7 @@ Results Calculated (some files are too big for git):
 4. HiPathia
 5. PRS (without the 2nd normalization step)
 6. GraphiteWeb: if I adjust using Benjamini and Hochberg method the accuracy reduces (generalisation)
-7. DEAP: can't find significant sub-paths
+7. DEAP: problems resolved, file too big for git
 
 Results Calculating (files are compressed because of the size, must be unzipped before running code):
 1. SPIA (0%): calculation time
