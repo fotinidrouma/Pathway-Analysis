@@ -1,4 +1,6 @@
-# Thesis
+# Gene expression and gene regulatory network analysis with statistical methods and machine learning algorithms
+
+## About the project
 
 Changes in 'Pathway Analysis':
 1. Genes' significance: the z-score is employed (threshold>=1.96 corresponding to p-value's threshold<=0.05)
