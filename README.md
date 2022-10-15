@@ -13,7 +13,7 @@ CONTENTS OF THIS FILE
  * FAQ
  * Maintainers
 
-##### Table of Contents  
+## Table of Contents  
 [Headers](#headers)  
 [Emphasis](#emphasis)  
 ...snip...    
