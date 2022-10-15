@@ -12,6 +12,9 @@ The goal of this study was to compare the findings to earlier research in order 
 The project is implemented using the Python programming language in Jupyter Notebook.
 
 ## <a name="">Setup</a>
-To run this project, 
+To run this project, install it locally and launch the Jupyter Notebook App by clicking on the Jupyter Notebook icon installed by Anaconda in the start menu (Windows) or by typing in a terminal (cmd on Windows):
+```sh
+   jupyter notebook
+```
 
 
