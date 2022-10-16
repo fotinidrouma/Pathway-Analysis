@@ -20,5 +20,5 @@ To run this project, install it locally and launch the Jupyter Notebook App by c
 ```
 
 ## <a name="usage">Usage</a>
-To acquire the files containing the estimated path scores that are missing from the "Results" folder, uncomment the code blocks in sections 2.1.3, 2.2.3, 2.3.2, 2.4.2, 2.5.4, 2.6.3, and 2.7.3, and run all cells. 
+To acquire the files containing the estimated path scores that are missing from the "Results" folder, uncomment the code blocks in sections 2.2.3, 2.4.2, 2.5.4 and 2.7.3, and run all cells. It is estimated that this procedure would take approximately 17 hours.
 
