@@ -13,7 +13,7 @@ The goal of this study was to compare the findings to earlier research in order 
 
 ## <a name="info">General Info</a>
 The results of the project are presented below. For more information you can refer to the pdf file provided.
-![Alt text](/C:\Users\user\Desktop\execution time.png "Optional title")
+![Alt text](C:/Users/user/Desktop/execution time.png "Optional title")
 
 ## <a name="tech">Technologies</a>
 The project is implemented using the Python programming language in Jupyter Notebook.
