@@ -13,12 +13,8 @@ The goal of this study was to compare the findings to earlier research in order 
 
 ## <a name="info">General Info</a>
 The results of the project are presented below. For more information you can refer to the pdf file provided.
-<picture>
-  <img src="https://user-images.githubusercontent.com/74158103/196029526-4b84230e-b2da-4a87-9ca5-a471e2f10097.png">
-</picture>
-<picture>
-  <img src="https://user-images.githubusercontent.com/74158103/196029531-b85f1ca9-8f87-4e08-abf2-680ad2b138e4.png">
-</picture>
+<a href="url"><img src="https://user-images.githubusercontent.com/74158103/196029526-4b84230e-b2da-4a87-9ca5-a471e2f10097.png" align="left" height="48" width="48" ></a>
+<a href="url"><img src="https://user-images.githubusercontent.com/74158103/196029531-b85f1ca9-8f87-4e08-abf2-680ad2b138e4.png" align="left" height="48" width="48" ></a>
 ![execution time](https://user-images.githubusercontent.com/74158103/196029526-4b84230e-b2da-4a87-9ca5-a471e2f10097.png)
 ![accuracy](https://user-images.githubusercontent.com/74158103/196029531-b85f1ca9-8f87-4e08-abf2-680ad2b138e4.png)
 
