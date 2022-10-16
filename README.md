@@ -14,10 +14,13 @@ The goal of this study was to compare the findings to earlier research in order 
 ## <a name="info">General Info</a>
 The results of the project are presented below. For more information you can refer to the pdf file provided.
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/74158103/196029526-4b84230e-b2da-4a87-9ca5-a471e2f10097.png">
+  <img src="https://user-images.githubusercontent.com/74158103/196029526-4b84230e-b2da-4a87-9ca5-a471e2f10097.png">
 </picture>
+<picture>
+  <img src="https://user-images.githubusercontent.com/74158103/196029531-b85f1ca9-8f87-4e08-abf2-680ad2b138e4.png">
+</picture>
+![execution time](https://user-images.githubusercontent.com/74158103/196029526-4b84230e-b2da-4a87-9ca5-a471e2f10097.png)
+![accuracy](https://user-images.githubusercontent.com/74158103/196029531-b85f1ca9-8f87-4e08-abf2-680ad2b138e4.png)
 
 ## <a name="tech">Technologies</a>
 The project is implemented using the Python programming language in Jupyter Notebook.
