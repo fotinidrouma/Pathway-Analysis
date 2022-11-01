@@ -12,7 +12,7 @@ The code developed for a thesis on "Gene expression and gene regulatory network 
 The goal of this study was to compare the findings to earlier research in order to determine the most efficient approach for pathway analysis using the technologies that are currently provided. A Decision Tree algorithm was used to evaluate the results after implementing the scoring method for various Pathway Analysis tools. TAPPA, PRS, TEAK, DEAP, GraphiteWeb, MinePath, and HiPathia were the tools chosen for implementation.
 
 ## <a name="info">General Info</a>
-The results of the project are presented below. For more information you can refer to the pdf file provided.
+The results of the project are presented below. For more information you can refer to the pdf files provided.
 <img src="https://user-images.githubusercontent.com/74158103/196033411-6b3adf0a-d2dd-4837-b84c-138937466d30.png" align="left" height="450" width="900">
 <img src="https://user-images.githubusercontent.com/74158103/196033781-8b7afb30-f1b4-478e-817e-e23a31174d32.png" align="left" height="450" width="900">
 <br clear="left"/>
